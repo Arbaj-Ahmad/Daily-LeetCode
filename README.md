@@ -106,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0904-fruit-into-baskets) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
